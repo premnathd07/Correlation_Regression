@@ -20,10 +20,22 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
+```
+NAME: PREM NATH D
+REF: 212225230217
+```
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
 
 # Output 
+```
+[25 28 35 32 31 36 29 38 34 32]
+[43 46 49 41 36 32 31 30 33 39]
+10
+The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
+```
+<img width="576" height="432" alt="image" src="https://github.com/user-attachments/assets/7bd85b16-55e1-4e58-82ed-2ec44017bf15" />
+
+## Result :
+Thus the program is implemented and Executed Successfully
